@@ -166,13 +166,23 @@
               "icon": "lucide-list",
               "title": "Struttura di Prova RPG"
             }
+          },
+          {
+            "id": "9e682a797c40d3ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +191,8 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4ba20e0112e39d2f",
